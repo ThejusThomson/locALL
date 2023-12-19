@@ -46,8 +46,7 @@ https://nominatim.org/release-docs/develop/api/Overview/
  ### Instructions to use the repo
 - You can clone the repo by using HTTP: 
 
-[https://github.com/info-6150-fall-2023/final-project-ex-span-dables.git
-](https://github.com/ThejusThomson/locALL.git)
+[https://github.com/ThejusThomson/locALL.git](https://github.com/ThejusThomson/locALL.git)
 
 OR set up the SSH Key using: 
 https://github.com/ThejusThomson/locALL.git
